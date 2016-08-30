@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": {"model": "kdfoodmod:cropCorn/corn_stage0"},
+    "age=1": {"model": "kdfoodmod:cropCorn/corn_stage1"},
+    "age=2": {"model": "kdfoodmod:cropCorn/corn_stage2"},
+    "age=3": {"model": "kdfoodmod:cropCorn/corn_stage3"},
+    "age=4": {"model": "kdfoodmod:cropCorn/corn_stage4"},
+    "age=5": {"model": "kdfoodmod:cropCorn/corn_stage5"},
+    "age=6": {"model": "kdfoodmod:cropCorn/corn_stage6"},
+    "age=7": {"model": "kdfoodmod:cropCorn/corn_stage7"}
+  }
+}

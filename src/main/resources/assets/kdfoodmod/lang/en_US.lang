@@ -1,0 +1,12 @@
+#ITEMS FOOD
+item.foodCorn.name=Corn Cob
+item.seedCorn.name=Corn Seed
+item.foodCookedCorn.name=Grilled Corn on the Cob
+item.foodCookedSaltedCorn.name=Grilled and Salted Corn on the Cob
+item.foodCSBCorn.name=Grilled Salted and Buttered Corn on the Cob
+item.foodCSBGCorn.name=THE BEST MEAL
+item.foodButter.name=Butter
+#ITEMS MISC
+item.dustSalt.name=Table Salt
+#BLOCKS CROP
+tile.cropCorn.name=Corn Plant

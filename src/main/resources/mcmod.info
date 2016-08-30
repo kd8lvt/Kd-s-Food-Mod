@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kdfoodmod",
+  "name": "Kd's Food Mod",
+  "description": "A mod that adds nothing but food. Because why not?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kd8lvt"],
+  "credits": "Fate78 and TheBritishBrotherhood (Curt) for encouraging me to make it <3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
